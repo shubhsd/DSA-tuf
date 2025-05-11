@@ -1,0 +1,7 @@
+Hello world!
+-2147483648
+2147483647
+11000000000000Float num - 8.72313
+Double num - 8.52137
+character is - a
+tuf
